@@ -1,4 +1,5 @@
 from .latency import *
+from .reliability import *
 from .storage import *
 from .time import *
 
