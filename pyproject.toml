@@ -1,0 +1,14 @@
+[project]
+name = "benfords-sawzall"
+version = "0.1.0"
+description = "Interactive Python library loaded with constants for real world number crunching"
+readme = "README.md"
+authors = [
+    { name = "ajzaff", email = "4390902+ajzaff@users.noreply.github.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
