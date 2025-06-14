@@ -1,3 +1,5 @@
+from .latency import *
+from .storage import *
 from .time import *
 
 
