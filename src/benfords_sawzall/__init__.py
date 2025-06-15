@@ -1,4 +1,4 @@
-from .latency import *
+from .latency_rules_of_thumb import *
 from .reliability import *
 from .storage import *
 from .time import *
